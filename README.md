@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @two-song
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @two-song and I'm good at Tableau.
+- 👀 I’m interested in Stat, Art and Travel.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking for a job as a Data Analyst.
+- 📫 How to reach me 'o3osongsong@gmail.com'
 
 <!---
 two-song/two-song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

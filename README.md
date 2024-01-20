@@ -3,9 +3,8 @@
  
 <a href="https://yoppie.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-</a> <a href="www.linkedin.com/in/songyi97">
-  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a> <img src="https://img.shields.io/badge/o3osongsong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/songyi97/">
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/> </a> <img src="https://img.shields.io/badge/o3osongsong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a> 
  
  

@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @two-song and I'm good at Tableau.
+- 👋 Hi, I’m @two-song.
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 - 👀 I’m interested in Stat, Art and Travel.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking for a job as a Data Analyst.

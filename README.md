@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @two-song.
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tableau-3766AB?style=flat-square&logo=Tableau&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 
 - 👀 I’m interested in Stat, Art and Travel.
 - 🌱 I’m currently learning Python.

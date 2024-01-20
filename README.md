@@ -1,4 +1,4 @@
-👋 Hi, I’m Songyi. I'm interested in Python.  
+👋 Hi, I’m **Songyi**. I'm interested in Python.  
 And I like Travel, Music and Art! 💘  
 
 <br/>
